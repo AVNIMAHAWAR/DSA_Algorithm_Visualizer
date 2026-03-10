@@ -1,0 +1,15 @@
+body{
+    text-align:center;
+    font-family:Arial;
+}
+
+#array-container{
+    margin-top:40px;
+}
+
+.bar{
+    display:inline-block;
+    width:20px;
+    margin:2px;
+    background-color:steelblue;
+}
